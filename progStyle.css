@@ -1,0 +1,13 @@
+.root{
+	-fx-base: rgb(0, 0, 0);
+	-fx-background: rgb(4, 156, 131);
+	
+	}		
+.button:hover{
+		-fx-background-color: lightgreen;
+		-fx-text-fill: black;
+		-fx-font-size: 12;
+		-fx-font-weight: bold;
+		-fx-effect: dropshadow(one-pass-box,black, 8, 0.0, 2, 0);
+		
+	}
